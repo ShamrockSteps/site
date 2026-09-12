@@ -1,0 +1,18 @@
+{
+  "name": "Shamrock Steps",
+  "short_name": "Shamrock Steps",
+  "description": "Traditional Irish dance classes in soft shoe and hard shoe for dancers ages 6+.",
+  "lang": "en-IE",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#f5f2ea",
+  "theme_color": "#246b4a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
