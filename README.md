@@ -20,4 +20,4 @@ Vercel can deploy this repository as a static site with its default settings:
 - **Build command:** none
 - **Output directory:** `.`
 
-The site theme is based on the dark dance shoes and warm wood tones in the school’s public Facebook profile image.
+The site theme is based on the dark dance shoes and warm wood tones in the school’s supplied photo. The hero image is stored locally at `assets/shamrock-steps-hero.jpg`, so the site does not depend on a Facebook image URL at runtime.
